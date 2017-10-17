@@ -1,1 +1,4 @@
-h1 {colour: maroon;}
+h1 {
+  colour: maroon;
+  font-size: 25px;
+}
